@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SrinithiVeerapandiyan/paractice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/SrinithiVeerapandiyan/paractice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SrinithiVeerapandiyan/paractice/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/SrinithiVeerapandiyan/paractice/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SrinithiVeerapandiyan/paractice/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SrinithiVeerapandiyan/paractice/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SrinithiVeerapandiyan/paractice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
